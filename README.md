@@ -9,6 +9,7 @@
 🤖 Intéressé par l’Intelligence Artificielle
 
 
+
 Passionné par le numérique et les technologies émergentes, je combine créativité, logique système et développement logiciel pour concevoir des solutions modernes.
 Je m’intéresse particulièrement au design d’interfaces, à l’administration systèmes et aux applications intégrant l’IA.
 
